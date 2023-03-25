@@ -13,13 +13,21 @@ body {
     font-family: Roboto, sans-serif;
 }
 
-a:hover {
+.header-link:hover {
     color: #404bbf;
   }
-  
-a:focus {
+
+.header-address:hover {
+    color: #404bbf;
+  }          
+
+.header-address:focus {
     color: #404bbf;
   }
+
+.header-link:focus {
+    color: #404bbf;
+}
 
 /* Header */
 .link {
