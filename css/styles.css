@@ -3,6 +3,9 @@
 /* Body */
 body {
     background-color: #FFFFFF;
+}
+
+body {
     color: #434455;
 }
 
@@ -14,7 +17,7 @@ a:hover {
     color: #404bbf;
   }
   
-  a:focus {
+a:focus {
     color: #404bbf;
   }
 
