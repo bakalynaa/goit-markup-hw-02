@@ -110,7 +110,7 @@ body {
     background-color: #404BBF
 }
 
-.features-f3 {
+.features-subtitle {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -125,7 +125,7 @@ body {
     color: #434455;
 }
 
-.what-are-we-doing-h2 {
+.what-are-we-doing-title {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -138,7 +138,7 @@ body {
     background-color: #F4F4FD
 }
 
-.our-team-h2 {
+.our-team-title {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -207,7 +207,7 @@ body {
     background-color: #404BBF;
 }
 
-.portfolio-f2: {
+.portfolio-title: {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
